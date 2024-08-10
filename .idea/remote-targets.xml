@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="Screen forwarding over VNC" type="screenForwardingVnc" uuid="39af36da-9c5a-43f1-8f02-6d0759d62893">
+        <config>
+          <option name="screenSize" />
+          <option name="windowManagerCommand" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+[workspace]
+members = ["parser", "visualizer"]
+resolver = "2"
+
+[workspace.dependencies]
+size = { git = "https://github.com/neosmart/prettysize-rs.git", branch = "0.6.x" }
